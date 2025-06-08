@@ -4,7 +4,7 @@ Data-Tool is a lightweight Python package for efficient data preprocessing. Desi
 ## Installation
 
 ```bash
-pip install data-tool
+pip install "git+https://github.com/apstlsnsi/data_tool.git#subdirectory=data-tool&quot;
 ```
 
 ## Features
